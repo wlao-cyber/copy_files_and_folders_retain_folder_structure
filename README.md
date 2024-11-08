@@ -14,7 +14,7 @@ If the destination path does NOT already exist, and the destination path is vali
 The program harnesses Windows' built-in Robocopy tool to perform the copying. The following Robocopy settings were applied to retain all data, attributes, and time stamps: 
 /COPY:DAT
 
-## Authors
+## Author
 
 - [@wlao-cyber](https://github.com/wlao-cyber)
 
